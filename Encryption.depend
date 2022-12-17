@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1670898002 source:c:\users\pj~pc\documents\c projects\encryption\main.cpp
+	<iostream>
+	"sha256.h"
+
+1670898113 c:\users\pj~pc\documents\c projects\encryption\sha256.h
+	<string>
+
+1670898174 source:c:\users\pj~pc\documents\c projects\encryption\sha256.cpp
+	<cstring>
+	<fstream>
+	"sha256.h"
+
